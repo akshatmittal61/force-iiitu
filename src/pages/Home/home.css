@@ -107,8 +107,8 @@ nav {
 }
 
 .nav__list__container ul li a:hover {
-    color: rgb(28, 123, 200);
-}
+    color: #06328a;
+} 
 
 
 .active {
@@ -161,6 +161,7 @@ nav {
 
 
 .header__container{
+    height: 70vh;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -168,11 +169,25 @@ nav {
 
 .header__image__container img{
     width: 400px; 
+    animation: fly 2.5s ease infinite;
+  
 }
+
+@keyframes fly {
+    0%{
+        transform: translateY(0);
+    }
+
+    50%{
+        transform: translateY(9px);
+    }
+}
+
+
 
 .header__data__container{
    color: white;
-   padding: 0px 0px 0px 90px;
+   margin: 0px 0px 0px 150px;
 } 
 
 
@@ -301,6 +316,7 @@ nav {
 
     .header__data__container {
       padding: 20px;
+      margin: 0px;
       text-align: center ;
       display: flex;
       flex-direction: column;

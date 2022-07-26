@@ -2,6 +2,7 @@ import React from 'react'
 import './home.css'
 import logo from '../../images/logo.png'
 import headerImage from '../../images/Untitled-1.png'
+import AboutUs from '../AboutUs/AboutUs'
 
 const Home = () => {
 
@@ -62,11 +63,10 @@ const Home = () => {
           <div class='humburger-line'></div>
           <div class='humburger-line'></div>
         </div>
-
-
-
-
+        
       </header>
+
+      <AboutUs/>
     </>
   )
 }

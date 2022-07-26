@@ -1,0 +1,43 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_2)">
+<rect width="1920" height="1080" fill="white"/>
+<g opacity="0.6">
+<g filter="url(#filter0_f_3_2)">
+<circle cx="332.5" cy="251.5" r="206.5" fill="#2063E6" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter1_f_3_2)">
+<circle cx="1501.5" cy="388.5" r="206.5" fill="#2063E6" fill-opacity="0.6"/>
+</g>
+<g filter="url(#filter2_f_3_2)">
+<circle cx="842.5" cy="841.5" r="206.5" fill="#2063E6" fill-opacity="0.3"/>
+</g>
+</g>
+<line x1="113" y1="4.37114e-08" x2="113" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="408" y1="4.37114e-08" x2="408" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="689" y1="4.37114e-08" x2="689" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="970" y1="4.37114e-08" x2="970" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="1251" y1="4.37114e-08" x2="1251" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="1532" y1="4.37114e-08" x2="1532" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+<line x1="1809" y1="4.37114e-08" x2="1809" y2="1080" stroke="#98B7F3" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_f_3_2" x="-162" y="-243" width="989" height="989" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="144" result="effect1_foregroundBlur_3_2"/>
+</filter>
+<filter id="filter1_f_3_2" x="925" y="-188" width="1153" height="1153" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="185" result="effect1_foregroundBlur_3_2"/>
+</filter>
+<filter id="filter2_f_3_2" x="348" y="347" width="989" height="989" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="144" result="effect1_foregroundBlur_3_2"/>
+</filter>
+<clipPath id="clip0_3_2">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
