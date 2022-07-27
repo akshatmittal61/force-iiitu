@@ -50,7 +50,7 @@ const Home = () => {
 
           <div className='header__data__container'>
             <h1>WE STRIVE TO <br /> SUCCESS</h1>
-            <p>In Association with lIT UNA</p>
+            <p>In Association with IIIT UNA</p>
             <div> 
               <button className='btn-primary'>Know More</button>
               <button className='btn-secondary'>Contact Us</button>
