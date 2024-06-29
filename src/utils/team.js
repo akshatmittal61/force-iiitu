@@ -13,9 +13,6 @@ parsedTeam.forEach((e) => {
 		tel: e["Phone No."],
 		image: e["Profile Photo (preferably focused on face)"],
 		title: e["Designation(E.g:- Web Developer, Graphic Designer, CP, etc)"],
-		status: e[
-			"A one liner to describe yourself.(E.g:- I am an avid learner, always on the hunt for new experiences)"
-		],
 		insta: e["Instagram username"],
 		linkedin: e["LinkedIn Username"],
 		twitter: e["Twitter Username"],
@@ -74,31 +71,10 @@ team.forEach((member) => {
 	)
 		office = [...office, member];
 });
-let faculty = [
-	{
-		image: "https://raw.githubusercontent.com/akshatmittal61/skillabhyudaya-team-8/master/team/director.jpg",
-		name: "Dr. S Selvakumar",
-		title: "Director IIIT Una",
-	},
-	{
-		image: "https://raw.githubusercontent.com/akshatmittal61/skillabhyudaya-team-8/master/team/vikram.jpg",
-		name: "Dr. Vikram Kumar",
-		title: "Faculty Coordinator",
-	},
-	{
-		image: "https://raw.githubusercontent.com/akshatmittal61/skillabhyudaya-team-8/master/team/ishitavaidya.jpg",
-		name: "Ms. Ishita Vaidya",
-		title: "Faculty Coordinator",
-	},
-];
 
-export { cooridnators, volunteers, mentors, office, faculty };
+export { volunteers, mentors, office, cooridnators };
 
 team = [
-	{
-		title: "Faculty Coordinators",
-		members: faculty,
-	},
 	{
 		title: "Office Bearers",
 		members: office,
