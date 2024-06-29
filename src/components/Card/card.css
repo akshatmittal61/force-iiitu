@@ -1,6 +1,6 @@
 .card {
   display: flex;
-  background-color: #1C7835;
+  background-color: #303F9F;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
@@ -21,7 +21,7 @@
 }
 
 .text-content {
-  color: #BFF1DC;
+  color: #62B4EF;
   text-align: start;
   margin-left: 5rem;
   margin-bottom: 1rem;
@@ -39,8 +39,8 @@
 }
 
 .social-icons {
-  background-color:#BFF1DC;
-  color: #1C7835;
+  background-color:#62B4EF;
+  color: #303F9F;
   width: 3rem;
   display: flex;
   flex-direction: column;
