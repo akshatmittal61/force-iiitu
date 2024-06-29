@@ -1,6 +1,5 @@
 .card {
   display: flex;
-  margin-left: 50px;
   background-color: #1C7835;
   justify-content: space-between;
   align-items: center;
@@ -22,24 +21,25 @@
 }
 
 .text-content {
-  color: #C0F1DC;
+  color: #BFF1DC;
   text-align: start;
   margin-left: 5rem;
   margin-bottom: 1rem;
+  width: 200px;
 }
 
 .name {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
 .post {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .social-icons {
-  background-color: #C0F1DC;
+  background-color:#BFF1DC;
   color: #1C7835;
   width: 3rem;
   display: flex;
@@ -47,11 +47,21 @@
   justify-content: space-around;
   align-items: center;
   font-size: 3rem;
-  height: 260px;
+  height: 250px;
   position: absolute;
-  bottom: -1rem;
-  right: 3rem;
+  bottom: -0.8rem;
+  right: 2.5rem;
   border-radius: 1rem;
 }
-
+@media (max-width: 600px) {
+  .card {
+    height: 170px;
+  }
+  .social-icons {
+    height: 200px;
+  }
+  .text-content {
+    width: 150px;
+  }
+}
 /*# sourceMappingURL=card.css.map */
