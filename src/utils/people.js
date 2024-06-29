@@ -11,7 +11,7 @@ let allPeople = [
 		"LinkedIn Username": "akshatmittal61",
 		"Twitter Username": "akshatmittal61",
 		"Phone No.": 9456849466,
-		Image : "https://drive.google.com/open?id=1AFbmsSCP8oIgn992WTiEAfLRPYori8yR"	
+		image : "https://drive.google.com/open?id=1AFbmsSCP8oIgn992WTiEAfLRPYori8yR"	
 	},
 	{
 		"`": "8/2/2022 23:33:39",
@@ -27,7 +27,7 @@ let allPeople = [
 			"https://twitter.com/RishavM68386507?t=wFSXkzI0tuxKe-RaohiBGA&s=09",
 		"Phone No.": 8305418589,
 		
-		Image:"https://drive.google.com/open?id=17td4iiOOib7nVKqMuLyYKiENxj1Y7xJg",
+		image:"https://drive.google.com/open?id=17td4iiOOib7nVKqMuLyYKiENxj1Y7xJg",
 	},
 	{
 		"`": "8/2/2022 23:37:14",
@@ -42,7 +42,7 @@ let allPeople = [
 		"Twitter Username": "",
 		"Phone No.": 7649803221,
 		
-		Image:"https://drive.google.com/open?id=1h3vExGDVlGFOV0se_3o6RtVL63lk04Cb",
+		image:"https://drive.google.com/open?id=1h3vExGDVlGFOV0se_3o6RtVL63lk04Cb",
 	},
 	{
 		"`": "8/2/2022 23:37:27",
@@ -56,7 +56,7 @@ let allPeople = [
 		"LinkedIn Username": "saksham-sharma-302949216",
 		"Twitter Username": "Saksham52964200",
 		"Phone No.": 7987863964,
-		Image:"https://drive.google.com/open?id=17wzSv6D5xzinDf7uU9EKzKnyZ5VmWtRm",
+		image:"https://drive.google.com/open?id=17wzSv6D5xzinDf7uU9EKzKnyZ5VmWtRm",
 	},
 	{
 		"`": "8/2/2022 23:54:48",
@@ -70,7 +70,7 @@ let allPeople = [
 		"LinkedIn Username": "Sarthak Vishnu IIITU",
 		"Twitter Username": "@SarthakVishnu",
 		"Phone No.": 8080572559,
-		Image:"https://drive.google.com/open?id=1ujF1a_OqDDSJzteQwBFqjhGAiTGrhyGk",
+		image:"https://drive.google.com/open?id=1ujF1a_OqDDSJzteQwBFqjhGAiTGrhyGk",
 	},
 	{
 		"`": "8/2/2022 23:58:55",
@@ -84,7 +84,7 @@ let allPeople = [
 		"LinkedIn Username": "Priyanshu Kumar Singh",
 		"Twitter Username": "",
 		"Phone No.": "09304011004",
-		Image:"https://drive.google.com/open?id=1fEKddUWm_g0VoghjFX9sNQ9W3CWMKIQy",
+		image:"https://drive.google.com/open?id=1fEKddUWm_g0VoghjFX9sNQ9W3CWMKIQy",
 	},
 	{
 		"`": "8/2/2022 23:59:50",
@@ -99,7 +99,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/shubham-agarwal-64b03b201",
 		"Twitter Username": "am_shubhagarwal",
 		"Phone No.": 9720677625,
-		Image:"https://drive.google.com/open?id=1cA1K3MzxQVj1moxjH324TLEgLlequtey",
+		image:"https://drive.google.com/open?id=1cA1K3MzxQVj1moxjH324TLEgLlequtey",
 	},
 	{
 		"`": "8/3/2022 0:15:27",
@@ -113,7 +113,7 @@ let allPeople = [
 		"LinkedIn Username": "https://www.linkedin.com/in/0729",
 		"Twitter Username": "Wahiladka",
 		"Phone No.": "+919877918681",
-		Image:"https://drive.google.com/open?id=16j2JLag47S6orWFJmf9lrFxG7UgHTbau",
+		image:"https://drive.google.com/open?id=16j2JLag47S6orWFJmf9lrFxG7UgHTbau",
 	},
 		{
 		"`": "8/8/2022 22:50:06",
@@ -127,7 +127,7 @@ let allPeople = [
 		"LinkedIn Username": "https://www.linkedin.com/in/abhinam-khatiyan-56041424a/",
 		"Twitter Username": "",
 		"Phone No.": "+917037832111",
-		Image:"https://drive.google.com/file/d/1r8zYJwavJdENZ4cmKA4AAFh9HDRgNLX8/view?usp=drive_link",
+		image:"https://drive.google.com/file/d/1r8zYJwavJdENZ4cmKA4AAFh9HDRgNLX8/view?usp=drive_link",
 	},
 	{
 		"`": "8/3/2022 6:36:51",
@@ -141,7 +141,7 @@ let allPeople = [
 		"LinkedIn Username": "Vaibhav Sharma",
 		"Twitter Username": "",
 		"Phone No.": 9079169794,
-		Image:"https://drive.google.com/open?id=17ZrlQrfH8TcDSY2KrGAAlFzGFocA5Nrc",
+		image:"https://drive.google.com/open?id=17ZrlQrfH8TcDSY2KrGAAlFzGFocA5Nrc",
 	},
 	{
 		"`": "8/3/2022 18:52:19",
@@ -155,7 +155,7 @@ let allPeople = [
 		"LinkedIn Username": "Ayush Khetrapal",
 		"Twitter Username": "",
 		"Phone No.": 9454721620,
-		Image:"https://drive.google.com/open?id=1-ADd_th6Vnn_jOm6ffe5CVzzvPDtuuxI",
+		image:"https://drive.google.com/open?id=1-ADd_th6Vnn_jOm6ffe5CVzzvPDtuuxI",
 	},
 	{
 		"`": "8/3/2022 20:06:52",
@@ -168,7 +168,7 @@ let allPeople = [
 		"LinkedIn Username": "Sarvesh-Chaudhary",
 		"Twitter Username": "",
 		"Phone No.": 6306818078,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1wYVoeSrX0UmX3vm1-Enwe76_W2jBJ7A-",
 	},
 	{
@@ -183,7 +183,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/prakhar-jaiswal-8a4662235/",
 		"Twitter Username": "none",
 		"Phone No.": 7905728886,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1ePsebQRGyBf6ukAcor7EH7_8xw-IUoI0",
 	},
 	{
@@ -197,7 +197,7 @@ let allPeople = [
 		"LinkedIn Username": "saurav sable",
 		"Twitter Username": "",
 		"Phone No.": 9823585926,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1f1C06sl0Ri57IKKuD0JwoZ2RCpfTlUta",
 	},
 	{
@@ -212,7 +212,7 @@ let allPeople = [
 		"LinkedIn Username": "Sarthak Singh",
 		"Twitter Username": "",
 		"Phone No.": 7248132013,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1zao_8soaPrgfY8Tli4z6rDKB05rDf-iC",
 	},
 	{
@@ -226,7 +226,7 @@ let allPeople = [
 		"LinkedIn Username": "Mayank Sharma",
 		"Twitter Username": "",
 		"Phone No.": 8959336005,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1_5rf6mtS9iYDnZfM3q0Q2kfmEKfzCEGg",
 	},
 	{
@@ -242,7 +242,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/ashray-tiwari-7562a9229",
 		"Twitter Username": "https://mobile.twitter.com/ashraytiwari17",
 		"Phone No.": 7440450750,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1uGuDrXtvnBQUo-R4qvKuZJLSbHs_Drbo",
 	},
 	{
@@ -256,7 +256,7 @@ let allPeople = [
 		"LinkedIn Username": "Vedant Dhumane",
 		"Twitter Username": "none",
 		"Phone No.": 9767892796,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1zFLQdW2YFxVlsHGbOLE5Y8tJUEBliLYR",
 	},
 	{
@@ -270,7 +270,7 @@ let allPeople = [
 		"LinkedIn Username": "Krishak Chhura",
 		"Twitter Username": "",
 		"Phone No.": 7009927379,
-		Image:
+		image:
 			"https://drive.google.com/open?id=12scZe7A1C3FxPnP6BRc9Qdy1nASSG9mE",
 	},
 	{
@@ -284,7 +284,7 @@ let allPeople = [
 		"LinkedIn Username": "Suraj Maheshwari",
 		"Twitter Username": "",
 		"Phone No.": 9602787267,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1SdrD-hlXHXosqav3ZiJ-OTj5xk4gxxr8",
 	},
 	{
@@ -300,7 +300,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/pratham-singh-596591203",
 		"Twitter Username": "SinghPratham891",
 		"Phone No.": 7600662459,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1gDPxzukc1ET45bCOlJZf-LdzzEP-kxz9",
 	},
 	{
@@ -315,7 +315,7 @@ let allPeople = [
 		"LinkedIn Username": "www.linkedin.com/in/saransh-baniyal",
 		"Twitter Username": "https://twitter.com/SaranshBaniyal",
 		"Phone No.": 9760107102,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1e0u-hr2EilaEwW9jcNuZlspWgxQoc6pY",
 	},
 	{
@@ -330,7 +330,7 @@ let allPeople = [
 		"LinkedIn Username": "https://www.linkedin.com/in/anshulkumar2311",
 		"Twitter Username": "anshulkumar2311",
 		"Phone No.": "+919456862963",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1bz6KMug5Q1nFlnfqF-ILWXl1cpRmciX4",
 	},
 	{
@@ -345,7 +345,7 @@ let allPeople = [
 		"LinkedIn Username": "https://github.com/RishiSr",
 		"Twitter Username": "",
 		"Phone No.": 7985714918,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1VKHNglV6lrECW-IQ2TF92UQVU68rZwq1",
 	},
 	{
@@ -359,7 +359,7 @@ let allPeople = [
 		"LinkedIn Username": "deepak-sharma-84994b234",
 		"Twitter Username": "",
 		"Phone No.": 9559127439,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1rDH7n8pvyyE_UQTeTF-nZvqgyx6BJae0",
 	},
 	{
@@ -373,7 +373,7 @@ let allPeople = [
 		"LinkedIn Username": "gaurav-singh-8121b423b",
 		"Twitter Username": "",
 		"Phone No.": 6398330445,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1TCz1gY5XMH7TBcljOUpplAJIgt00Jmpi",
 	},
 	{
@@ -387,7 +387,7 @@ let allPeople = [
 		"LinkedIn Username": "Ayushi Garg",
 		"Twitter Username": "Ayushi",
 		"Phone No.": 7849995391,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1x2utgFiEfO0fRzcz7qJ-1i_bxS7qEeDG",
 	},
 	{
@@ -402,7 +402,7 @@ let allPeople = [
 		"LinkedIn Username": "Manas Sharma",
 		"Twitter Username": "",
 		"Phone No.": 7627075413,
-		Image:
+		image:
 			"https://drive.google.com/open?id=16Zbxh68I_1yQIqv0Ii8DWm4k014TTpzk",
 	},
 	{
@@ -417,7 +417,7 @@ let allPeople = [
 		"Twitter Username":
 			"https://twitter.com/Ujjwal85288906?t=RF5fgIx6X_1_kmtBQJNoxw&s=09",
 		"Phone No.": 7988204539,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1KiR9fV72zEfKnCq5Nwntzjvf2Vq5timT",
 	},
 	{
@@ -432,7 +432,7 @@ let allPeople = [
 		"LinkedIn Username": "Mitesh Singla",
 		"Twitter Username": "",
 		"Phone No.": 8968146758,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1tGqNdipZaLQk0uWOwq4arMHpPu-Gm1Hj",
 	},
 	{
@@ -447,7 +447,7 @@ let allPeople = [
 		"LinkedIn Username": "Jalaj Pathak",
 		"Twitter Username": "",
 		"Phone No.": 9058831334,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1d1nKjhgUIp3rR9hOxO4aPWppbVxednQg",
 	},
 	{
@@ -462,7 +462,7 @@ let allPeople = [
 		"LinkedIn Username": "Shubhi Arora",
 		"Twitter Username": "",
 		"Phone No.": 7668191238,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1FMdiP7qA-89sZ_INAQtej085Nec3KiMX",
 	},
 	{
@@ -478,7 +478,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/lakshay-arora-360b50228",
 		"Twitter Username": "",
 		"Phone No.": 9350073879,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1lx3nZaxTY-j-1Qxd9L5UPA_ri2BhhOlh",
 	},
 	{
@@ -493,7 +493,7 @@ let allPeople = [
 		"LinkedIn Username": "akshat-khosya-7b9321201",
 		"Twitter Username": "",
 		"Phone No.": 9416908474,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1x6nXUNr2n4buXSh_zdpOXfpgW6s0h_h8",
 	},
 	{
@@ -510,7 +510,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/piyush-singh-403089221",
 		"Twitter Username": "",
 		"Phone No.": "+917310094880",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1CbNt6XR3QJIiS2SCS-ey1UcozrVU-mIQ",
 	},
 	{
@@ -525,7 +525,7 @@ let allPeople = [
 		"LinkedIn Username": "mitali-jain-6b4b1a204",
 		"Twitter Username": "",
 		"Phone No.": 7737149963,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1SAYcCmsz4OslVzWaM-vdEYf-X9u0wgmB",
 	},
 	{
@@ -540,7 +540,7 @@ let allPeople = [
 		"LinkedIn Username": "Abhay Pratap Singh",
 		"Twitter Username": "Nil",
 		"Phone No.": 8218275527,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1sAMlXpCVk3IvnujzVwiwRao-M2fUH6M6",
 	},
 	{
@@ -555,7 +555,7 @@ let allPeople = [
 		"LinkedIn Username": "Kushagra Johari",
 		"Twitter Username": "",
 		"Phone No.": 7668987397,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1wJSMxSu-CTW85v61oXwqFz5T7sAI7Ykp",
 	},
 	{
@@ -570,7 +570,7 @@ let allPeople = [
 		"LinkedIn Username": "Ram Ratan singh",
 		"Twitter Username": "",
 		"Phone No.": 7290826107,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1cbl1a6BjslRvLLhq-CFocVAxqrrdQR_2",
 	},
 	{
@@ -585,7 +585,7 @@ let allPeople = [
 		"LinkedIn Username": "varunprohit",
 		"Twitter Username": "prohitvarun",
 		"Phone No.": "08103325733",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1OanGlJyV2NhTAbUMaUciWGunY6l32ufE",
 	},
 	{
@@ -599,7 +599,7 @@ let allPeople = [
 		"LinkedIn Username": "Sejal jain",
 		"Twitter Username": "Nope",
 		"Phone No.": 8505025697,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1sNjzlOJZxBCgAh3af7bvvqOT0uKb5MiK",
 	},
 	{
@@ -614,7 +614,7 @@ let allPeople = [
 		"LinkedIn Username": "this-deepraj",
 		"Twitter Username": "",
 		"Phone No.": "+917266070069",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1azPJZm6uvXXR162UWU9h5fkPUGUrW6Q0",
 	},
 	{
@@ -628,7 +628,7 @@ let allPeople = [
 		"LinkedIn Username": "-devang-sharma-",
 		"Twitter Username": "",
 		"Phone No.": 7877857818,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1Wh5Nw99xuHvcJJJ_BhLWfz8MXE_UYgPX",
 	},
 	{
@@ -643,7 +643,7 @@ let allPeople = [
 		"LinkedIn Username": "Kavisha Gupta",
 		"Twitter Username": "",
 		"Phone No.": 9628820340,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1u5WgXhVDmdAppif7_8fB1ckn4dSMJhlx",
 	},
 	{
@@ -658,7 +658,7 @@ let allPeople = [
 		"LinkedIn Username": "pkspyder007",
 		"Twitter Username": "pkspyder007",
 		"Phone No.": "+917071243897",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1MrKKfZsxfbhr_UJKUbkyo-y1feqjUXwo",
 	},
 	{
@@ -673,7 +673,7 @@ let allPeople = [
 		"LinkedIn Username": "Vanshika Pandey",
 		"Twitter Username": "",
 		"Phone No.": "+918787050677",
-		Image:
+		image:
 			"https://drive.google.com/open?id=1kVFlh7jlnb6Jt4xNDdT9QrDIVznHuGxh",
 	},
 	{
@@ -688,7 +688,7 @@ let allPeople = [
 		"LinkedIn Username": "Akmindejeet Singh",
 		"Twitter Username": "",
 		"Phone No.": 7087197427,
-		Image:
+		image:
 			"https://drive.google.com/open?id=19zMNGgswMFlB2Bo-CFiYn2Is5E5Vs3Lp",
 	},
 	{
@@ -703,7 +703,7 @@ let allPeople = [
 		"LinkedIn Username": "nmastepankaj",
 		"Twitter Username": "nmastepankaj",
 		"Phone No.": 8285930412,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1AkT4yzxA_GF7ggV7kHOV0ZL0UagUbEe-",
 	},
 	{
@@ -718,7 +718,7 @@ let allPeople = [
 		"LinkedIn Username": "sayak-mondal-b70384200",
 		"Twitter Username": "ig_d3monic",
 		"Phone No.": 8373082231,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1yXKiFnWKF3rDR3iCsxis_L1dl_E_ZMoD",
 	},
 	{
@@ -734,7 +734,7 @@ let allPeople = [
 			"https://www.linkedin.com/in/divyansh-jindal-449641201/",
 		"Twitter Username": "",
 		"Phone No.": 9041574035,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1J7a7OUNmpIH0ROvOFhRQHZkNX2S2Yf_Y",
 	},
 	{
@@ -749,7 +749,7 @@ let allPeople = [
 		"LinkedIn Username": "Nikhil Bhatia",
 		"Twitter Username": "NikhilB63329083",
 		"Phone No.": 8440017893,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1uown-mXI-bWWjLIx4kmEEScGqP8B4rPA",
 	},
 	{
@@ -764,7 +764,7 @@ let allPeople = [
 		"LinkedIn Username": "Rohit kumar Gupta",
 		"Twitter Username": "",
 		"Phone No.": 9305737479,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1iny9QDV5CpX9BTAAYtK5QxavVwKOQmde",
 	},
 	{
@@ -780,7 +780,7 @@ let allPeople = [
 		"Twitter Username":
 			"https://twitter.com/V_a1nsh14?t=tk7f5TzeTf1QKGEui6sf6Q&s=09",
 		"Phone No.": 9569649636,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1Y7hjgUMF_tgWh-f-jveOP9uV6peM7Fd0",
 	},
 	{
@@ -796,7 +796,7 @@ let allPeople = [
 			"(Mohit bagdi)https://www.linkedin.com/in/mohit-bagdi-356463240",
 		"Twitter Username": "",
 		"Phone No.": 9351731524,
-		Image:
+		image:
 			"https://drive.google.com/open?id=1b9rjhJlBQPXGEv4a3zQ_Be1l8fadyIIW",
 	},
 ];
