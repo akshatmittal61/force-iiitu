@@ -4,7 +4,7 @@ import gsoc from "../images/gsoc.png";
 
 const achievements = [
 	{
-		title: "SIH",
+		title: "Smart India Hackathon",
 		image: sih,
 		participants: [
 			"Shubham Kamboj",
@@ -16,7 +16,7 @@ const achievements = [
 		],
 	},
 	{
-		title: "SIH",
+		title: "Smart India Hackathon",
 		image: sih,
 		participants: [
 			"Anshu Akansha",

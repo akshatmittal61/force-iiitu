@@ -11,7 +11,7 @@ parsedTeam.forEach((e) => {
 		email: e["Email Address"],
 		mail: e["Personal Email"],
 		tel: e["Phone No."],
-		image: e["image"],
+		image: e["Profile Photo (preferably focused on face)"],
 		title: e["Designation(E.g:- Web Developer, Graphic Designer, CP, etc)"],
 		insta: e["Instagram username"],
 		linkedin: e["LinkedIn Username"],
