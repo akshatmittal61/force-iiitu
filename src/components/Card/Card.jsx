@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { getIcon, getLink } from "../../utils"; 
 import userFallback from "../../images/user.svg"; 
 import "./card.css";
@@ -15,7 +15,10 @@ const Card = ({
       <img
         className="profile-img"
         src={userImage}
-        onError={() => setUserImage(userFallback)}
+        onError={() => {
+          console.error("Failed to load image:", userImage);
+          setUserImage(userFallback);
+        }}
         alt={name}
         loading="lazy"
       />

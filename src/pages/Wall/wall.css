@@ -150,53 +150,78 @@
   line-height: 2rem;
 }
 
-.achievement {
-  width: 85%;
-  height: 30rem;
-  margin: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-flow: column;
-  border-radius: 16px;
-  overflow: hidden;
-  background-color: #111010;
-  color: var(--white);
+
+/* Achievement css */
+
+.mainContainer {
   position: relative;
+  height: 420px;
+  width: 350px;
+  margin: 20px;
+  perspective: 1000px; 
 }
-.achievement::before {
+
+.thecard {
   position: absolute;
-  content: "";
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 25vw;
-  height: 25vw;
-  background-color: #1d79f2;
-  position: absolute;
-  opacity: 0.2;
-  filter: blur(220px);
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease-in-out;
 }
-.achievement-image {
-  width: 70%;
-  height: 35%;
-  margin: 1rem 0;
+
+.mainContainer:hover .thecard, .mainContainer:active .thecard {
+  transform: rotateY(180deg);
+}
+
+.front, .back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 1rem;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.achievement-head {
-  margin: 1rem 0;
-  font-size: 2rem;
-  line-height: 2.5rem;
-  width: 80%;
-  text-align: center;
+
+.front {
+  background-color: #1d1d1d;
+  color: #eaeaea;
+  z-index: 2;
 }
-.achievement-participants {
+
+.front img {
+  height: auto;
+  max-width: 80%;
+  max-height: 60%;
+  margin-bottom: 2rem;
+}
+
+.front h1 {
+  font-size: 30px;
+  padding-bottom: 5rem;
+}
+
+.back {
+  background-color: #fff59c;
+  color: #1d1d1d;
+  transform: rotateY(180deg);
+  z-index: 1;
+  padding-top: 1.5rem;
+}
+
+.row {
   display: flex;
-  flex-flow: column;
-  justify-content: flex-start;
+  justify-content: space-between;
   align-items: center;
+  padding: 1rem 2rem;
+  width: 100%;
+}
+
+.name {
+  font-size: larger;
+  font-weight: 500;
 }
 
 /*# sourceMappingURL=wall.css.map */
