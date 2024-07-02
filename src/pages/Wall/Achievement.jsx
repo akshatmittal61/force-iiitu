@@ -1,19 +1,28 @@
 import React from "react";
+import "./wall.css";
 
-const Achievement = ({ title, image, participants }) => {
-	return (
-		<div className="achievement">
-			<div className="achievement-image">
-				<img src={image} alt={title} />
-			</div>
-			<div className="achievement-head">{title}</div>
-			<div className="achievement-participants">
-				{participants.map((person, id) => (
-					<span key={id}>{person}</span>
-				))}
-			</div>
-		</div>
-	);
-};
+function Achievement({ title, image, participants }) {
+  return (
+    <div className="mainContainer">
+      <div className="thecard">
+        {/* front */}
+        <div className="front">
+          <img src={image} alt={title} />
+          <h1>{title}</h1>
+        </div>
 
-export default Achievement;
+        {/* back */}
+        <div className="back">
+          {/* row */}
+          {participants.map((person, id) => (
+            <div className="row" key={id}>
+              <p className="name">{person}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Achievement; 
