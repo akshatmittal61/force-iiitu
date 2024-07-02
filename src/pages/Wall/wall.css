@@ -201,6 +201,9 @@
 .front h1 {
   font-size: 30px;
   padding-bottom: 5rem;
+  line-height: 1.2;
+  text-align: center;
+  word-wrap: break-word;
 }
 
 .back {
