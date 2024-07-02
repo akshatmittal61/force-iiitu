@@ -206,6 +206,14 @@
   word-wrap: break-word;
 }
 
+
+.front p{
+  margin-top: -2rem;
+  font-size: 10px;
+  margin-left: 6rem;
+}
+
+
 .back {
   background-color: #fff59c;
   color: #1d1d1d;
