@@ -32,7 +32,9 @@ git checkout -b your-username-or-branch-name
 npm i
 ```
 
-5. Start the local dev server
+5. Build your `env` file as explained in [`.env.example`](./.env.example) file.
+
+6. Start the local dev server
 
 ```sh
 npm start
