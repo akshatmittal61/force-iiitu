@@ -48,11 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 -   [Vansh Gaba](https://github.com/vansh-000)
 -   [Sneha Kumari](https://github.com/Snehaaa-Kri)
 
----
-
 ## Contact Details:
 
 -   Web: [force-iiitu.netlify.app](https://force-iiitu.netlify.app)
 -   Email: [clubforce@iiitu.ac.in](mailto:clubforce@iiitu.ac.in)
-
----
