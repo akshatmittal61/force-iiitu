@@ -20,7 +20,7 @@ const NotFound = () => {
 			></section>
 			<section className="not-found-content">
 				<h2>Oops! Error 404</h2>
-				<h3>Couldn't find the page you are looking for...</h3>
+				<h3>Couldn&apos;t find the page you are looking for...</h3>
 				<div className="not-found-content-buttons">
 					<Button text="Back to Home" link="/" />
 					<Button

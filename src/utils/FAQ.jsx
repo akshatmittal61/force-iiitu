@@ -1,3 +1,5 @@
+import React from "react";
+
 const faqs = [
 	{
 		question: "What force aims to?",

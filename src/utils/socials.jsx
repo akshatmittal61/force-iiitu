@@ -1,3 +1,4 @@
+import React from "react";
 import { GitHub, Instagram, Linkedin, Mail } from "react-feather";
 
 const socials = [

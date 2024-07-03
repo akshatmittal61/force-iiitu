@@ -26,6 +26,19 @@
 		"lint": "eslint --c .eslintrc.json . --ext .js,.jsx,.ts,.tsx",
 		"prepare": "husky"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/akshatmittal61/force-iiitu.git"
+	},
+	"author": "Akshat Mittal",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/akshatmittal61/force-iiitu/issues"
+	},
+	"homepage": "https://force-iiitu.netlify.app/",
+	"eslintIgnore": [
+		"node_modules"
+	],
 	"eslintConfig": {
 		"extends": [
 			"react-app",
@@ -45,9 +58,9 @@
 		]
 	},
 	"devDependencies": {
+		"eslint": "^8.0.1",
 		"husky": "^9.0.11",
 		"prettier": "^3.3.2",
-		"saas": "^1.0.0",
 		"sass": "^1.77.6"
 	}
 }
