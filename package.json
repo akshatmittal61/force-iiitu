@@ -23,7 +23,8 @@
     "eject": "react-scripts eject",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "eslint --c .eslintrc.json . --ext .js,.jsx,.ts,.tsx"
+    "lint": "eslint --c .eslintrc.json . --ext .js,.jsx,.ts,.tsx",
+    "prepare": "husky"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "husky": "^9.0.11",
     "prettier": "^3.3.2",
     "saas": "^1.0.0",
     "sass": "^1.77.6"
