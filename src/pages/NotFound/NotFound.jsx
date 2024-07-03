@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import Button from "../../components/Button/Button";
 import GlobalContext from "../../Context/GlobalContext";
 import ostrich from "../../images/ostrich.png";
-import "./not-found.css";
+import "./not-found.scss";
 
 const NotFound = () => {
 	const { setHeaderStyle } = useContext(GlobalContext);

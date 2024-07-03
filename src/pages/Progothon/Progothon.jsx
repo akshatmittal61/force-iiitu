@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
 import MaterialIcons from "../../components/MaterialIcons";
 import GlobalContext from "../../Context/GlobalContext";
-import "./progothon.css";
+import "./progothon.scss";
 import progothonBG from "../../images/progothon.jpg";
 import Accordian from "../../Layout/Accordian/Accordian";
 import Row, { Col } from "../../Layout/Responsive";

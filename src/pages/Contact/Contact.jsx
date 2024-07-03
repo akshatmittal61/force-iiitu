@@ -4,7 +4,7 @@ import GlobalContext from "../../Context/GlobalContext";
 import socials from "../../utils/socials";
 import contactBanner from "../../images/contact.svg";
 import emailjs from "emailjs-com";
-import "./contact.css";
+import "./contact.scss";
 
 const Contact = () => {
 	const { setHeaderStyle } = useContext(GlobalContext);

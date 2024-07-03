@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import GlobalContext from "../../Context/GlobalContext";
 import favicon from "../../images/favicon.png";
 import navLinks from "../../utils/navigation";
-import "./header.css";
+import "./header.scss";
 
 const Header = () => {
 	const { headerStyle, breakpoint } = useContext(GlobalContext);

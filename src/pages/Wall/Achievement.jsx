@@ -1,5 +1,5 @@
 import React from "react";
-import "./wall.css";
+import "./wall.scss";
 
 function Achievement({ title, image, participants }) {
   return (

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./footer.css";
+import "./footer.scss";
 import banner from "../../images/banner2.jpg";
 import socials from "../../utils/socials";
 import navLinks from "../../utils/navigation";

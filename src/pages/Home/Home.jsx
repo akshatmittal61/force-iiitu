@@ -3,7 +3,7 @@ import Button from "../../components/Button/Button";
 import man from "../../images/man.svg";
 import teamwork from "../../images/teamwork.svg";
 import socials from "../../utils/socials";
-import "./home.css";
+import "./home.scss";
 import Dots from "../../images/Dots";
 import { ArrowRight } from "react-feather";
 import Row, { Col } from "../../Layout/Responsive";

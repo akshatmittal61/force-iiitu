@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../../components/Button/Button";
-import "./wall.css";
+import "./wall.scss";
 
 const Card = ({
 	image,

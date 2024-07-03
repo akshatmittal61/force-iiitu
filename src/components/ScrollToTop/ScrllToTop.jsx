@@ -1,6 +1,6 @@
 import React from "react";
 import MaterialIcons from "../MaterialIcons";
-import "./scroll-to-top.css";
+import "./scroll-to-top.scss";
 
 const ScrllToTop = () => {
 	const vh = window.innerHeight / 100;

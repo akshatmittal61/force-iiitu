@@ -23,8 +23,7 @@
     "eject": "react-scripts eject",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "lint": "eslint --c .eslintrc.json . --ext .js,.jsx,.ts,.tsx",
-    "sass": "sass src/style.scss:src/style.css src/components/Header/header.scss:src/components/Header/header.css src/components/Footer/footer.scss:src/components/Footer/footer.css src/components/Card/card.scss:src/components/Card/card.css src/components/Button/button.scss:src/components/Button/button.css src/components/ScrollToTop/scroll-to-top.scss:src/components/ScrollToTop/scroll-to-top.css src/components/Navigation/navigation.scss:src/components/Navigation/navigation.css src/Layout/Accordian/accordian.scss:src/Layout/Accordian/accordian.css src/pages/Home/home.scss:src/pages/Home/home.css src/pages/About/about.scss:src/pages/About/about.css src/pages/Team/team.scss:src/pages/Team/team.css src/pages/Wall/wall.scss:src/pages/Wall/wall.css src/pages/Progothon/progothon.scss:src/pages/Progothon/progothon.css src/pages/Gallery/gallery.scss:src/pages/Gallery/gallery.css src/pages/Contact/contact.scss:src/pages/Contact/contact.css src/pages/NotFound/not-found.scss:src/pages/NotFound/not-found.css -w"
+    "lint": "eslint --c .eslintrc.json . --ext .js,.jsx,.ts,.tsx"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +45,7 @@
   },
   "devDependencies": {
     "prettier": "^3.3.2",
-    "saas": "^1.0.0"
+    "saas": "^1.0.0",
+    "sass": "^1.77.6"
   }
 }

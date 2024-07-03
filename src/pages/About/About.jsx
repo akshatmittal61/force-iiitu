@@ -5,7 +5,7 @@ import teamwork from "../../images/teamwork.svg";
 import Accordian from "../../Layout/Accordian/Accordian";
 import faqs from "../../utils/FAQ";
 import rules from "../../utils/rules";
-import "./about.css";
+import "./about.scss";
 
 const About = () => {
 	const { setHeaderStyle, breakpoint } = useContext(GlobalContext);

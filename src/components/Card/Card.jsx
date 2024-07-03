@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { getIcon, getLink } from "../../utils"; 
 import userFallback from "../../images/user.svg"; 
-import "./card.css";
+import "./card.scss";
 const Card = ({
   image,
   name,

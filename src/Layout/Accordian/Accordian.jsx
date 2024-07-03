@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import AccordionDetails from "./AccordionDetails";
 import AccordionSummary from "./AccordionSummary";
-import "./accordian.css";
+import "./accordian.scss";
 
 const Accordian = ({
 	defaultExpanded = false,
