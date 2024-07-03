@@ -137,7 +137,7 @@ let allPeople = [
 		"Profile Photo (preferably focused on face)":
 			"https://drive.google.com/open?id=16j2JLag47S6orWFJmf9lrFxG7UgHTbau",
 	},
-		{
+	{
 		"`": "8/8/2022 22:50:06",
 		"Email Address": "20102@iiitu.ac.in",
 		Name: "Abhinam",
@@ -148,7 +148,8 @@ let allPeople = [
 		"A one liner to describe yourself.(E.g:- I am an avid learner, always on the hunt for new experiences)":
 			"I am a tech enthusiast who loves to learn an implement new technologies, solve problems and build solutions that contribute to a better future.",
 		"Instagram username": "abhhiii11",
-		"LinkedIn Username": "https://www.linkedin.com/in/abhinam-khatiyan-56041424a/",
+		"LinkedIn Username":
+			"https://www.linkedin.com/in/abhinam-khatiyan-56041424a/",
 		"Twitter Username": "",
 		"Phone No.": "+917037832111",
 		"Profile Photo (preferably focused on face)":

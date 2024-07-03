@@ -107,9 +107,7 @@ const Footer = () => {
 			</div>
 			<div className="footer-foot">
 				<div className="footer-foot-made">
-					<span>
-						Made with ❤ by Development Team
-					</span>
+					<span>Made with ❤ by Development Team</span>
 				</div>
 				<div className="footer-foot-nav">
 					<nav>

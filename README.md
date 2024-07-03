@@ -44,9 +44,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 # Authors and Contributors
 
-- [Akshat Mittal](https://github.com/akshatmittal61)
-- [Vansh Gaba](https://github.com/vansh-000)
-- [Sneha Kumari](https://github.com/Snehaaa-Kri)
+-   [Akshat Mittal](https://github.com/akshatmittal61)
+-   [Vansh Gaba](https://github.com/vansh-000)
+-   [Sneha Kumari](https://github.com/Snehaaa-Kri)
 
 ---
 

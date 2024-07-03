@@ -18,7 +18,7 @@ const Team = () => {
 			<section className="team-hero">
 				<Dots className="team-hero-dots" data-index="1" />
 				<Dots className="team-hero-dots" data-index="2" />
-				<Ellipse className='team-hero-ellipse' />
+				<Ellipse className="team-hero-ellipse" />
 				<span className="team-circles"></span>
 				<div className="team-hero-head">
 					<span>Meet Our Team</span>

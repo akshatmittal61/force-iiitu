@@ -205,8 +205,8 @@ const About = () => {
 						width: breakpoint("mobile")
 							? "100%"
 							: breakpoint("tab")
-							? "90%"
-							: "80%",
+								? "90%"
+								: "80%",
 					}}
 				>
 					{faqs.map((faq, id) => (

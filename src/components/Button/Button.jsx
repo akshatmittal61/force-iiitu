@@ -32,12 +32,12 @@ const Button = ({
 				href !== "" && href !== "#"
 					? () => {
 							window.open(href, target);
-					  }
+						}
 					: link !== location.pathname && link !== undefined
-					? () => {
-							navigate(link);
-					  }
-					: onClick
+						? () => {
+								navigate(link);
+							}
+						: onClick
 			}
 		>
 			{icon !== "" && (

@@ -6,7 +6,13 @@
 .wall section {
 	width: 100vw;
 	position: relative;
-	background-image: repeating-linear-gradient(to right, var(--bgcolor-700), var(--bgcolor-700) 1px, transparent 1px, transparent);
+	background-image: repeating-linear-gradient(
+		to right,
+		var(--bgcolor-700),
+		var(--bgcolor-700) 1px,
+		transparent 1px,
+		transparent
+	);
 	background-size: 250px 250px;
 }
 
@@ -34,7 +40,7 @@
 	align-items: center;
 }
 
-.wall-head[data-aos=fade-left] {
+.wall-head[data-aos="fade-left"] {
 	justify-content: flex-end;
 }
 
@@ -53,7 +59,7 @@
 	transform: translate(25%, -50%);
 }
 
-.wall-head[data-aos=fade-left] .wall-head-dots {
+.wall-head[data-aos="fade-left"] .wall-head-dots {
 	left: 0;
 	transform: translate(-25%, -50%);
 }
@@ -148,7 +154,7 @@
 	}
 }
 
-.event-card-content>* {
+.event-card-content > * {
 	margin: 1rem 0;
 }
 
@@ -170,7 +176,6 @@
 	font-size: 1.5rem;
 	line-height: 2rem;
 }
-
 
 /* Achievement css */
 
@@ -229,13 +234,11 @@
 	word-wrap: break-word;
 }
 
-
 .front p {
 	margin-top: -2rem;
 	font-size: 10px;
 	margin-left: 6rem;
 }
-
 
 .back {
 	background-color: #fff59c;
