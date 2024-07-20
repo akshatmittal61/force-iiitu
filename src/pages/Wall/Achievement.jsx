@@ -9,6 +9,8 @@ function Achievement({ title, image, participants }) {
         <div className="front">
           <img src={image} alt={title} />
           <h1>{title}</h1>
+
+          <p> Click/Hover to Reveal the Winners List!</p>
         </div>
 
         {/* back */}
